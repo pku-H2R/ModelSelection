@@ -1,3 +1,5 @@
 # Getting Started 
 
-**本项目的志在总结机器学习各种模型的优缺点，最佳适用的问题和数据集**
+** The current landscape of machine learning algorithms: gradient boosting machines for shallow learning problems; and deep learning for perceptual problems
+                                                                                  ———————— Francois Chollet <Deep Learning with Python>
+**
