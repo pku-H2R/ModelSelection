@@ -1,13 +1,12 @@
 # Getting Started 
 
-**The current landscape of machine learning algorithms: gradient boosting machines for shallow learning problems; and deep learning for perceptual problems
-                                                                             ———————— Francois Chollet<<Deep Learning with Python>> **
+**The current landscape of machine learning algorithms: gradient boosting machines for shallow learning problems; and deep learning for perceptual problems                                                            ———————— Francois Chollet<**
   
   
 # Model List
 * [Tree_based model](#Tree-based-model)
-* [Support Vector Machine]
-* [Logisitc Regression]
+* [Support Vector Machine](Support_Vector_Machine)
+* [Logisitc Regression](Logistic_Regression)
 
 
 
@@ -27,4 +26,16 @@
       * Extreme Gradient Boost Tree
       * LightGBM
       * CatBoost
+
+# Support_Vector_Machine
+  * Classification
+      * Binary
+        * Hard Margine
+        * Soft Margine
+        * Non-linear Margine
+      * Multi-class
+  * Regression
+  
+ # Logistic_Regression 
+  
 
