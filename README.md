@@ -37,6 +37,8 @@
         * Non-linear Margine
       * Multi-class
   * Regression
+  * Speed up
+      * Sequential Minimal Optimization(SMO)
   
  # Logistic_Regression 
   
