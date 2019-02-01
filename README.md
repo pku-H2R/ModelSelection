@@ -5,13 +5,13 @@
   
   
 # Model List
-* [Tree_based model](#Tree-based-model)
-* [Support Vector Machine](Support_Vector_Machine)
-* [Logisitc Regression](Logistic_Regression)
+* [Tree_based_model](#Tree-based-model)
+* [Support_Vector_Machine](Support_Vector_Machine)
+* [Logisitc_Regression](Logistic_Regression)
 
 
 
-# Tree-based-model
+# Tree_based_model
   
   * Feature Selection Criteria
     * ID3(Information Gain)
