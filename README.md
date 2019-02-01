@@ -8,6 +8,7 @@
 * [Tree_based_model](#Tree_based_model)
 * [Support_Vector_Machine](#Support_Vector_Machine)
 * [Logisitc_Regression](#Logistic_Regression)
+* [Probabilistic_Graphic_Model](#Probabilistic_Graphic_Model)
 
 
 
@@ -41,5 +42,10 @@
       * Sequential Minimal Optimization(SMO)
   
  # Logistic_Regression 
+ 
+ # Probabilistic_Graphic_Model
+      * Bayesian Network
+      * Markov Network
+      * Conditional Random Field
   
 
