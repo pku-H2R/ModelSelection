@@ -32,9 +32,9 @@
 # Support_Vector_Machine
   * Classification
       * Binary
-        * Hard Margine
-        * Soft Margine
-        * Non-linear Margine
+        * Hard Margine/Linearly separable SVM(Hard margin maximization)
+        * Soft Margine/Linear SVM(Soft margin maximization)
+        * Non-linear Margine SVM = (kernel trick & Soft margin maximization)
       * Multi-class
   * Regression
   * Speed up
