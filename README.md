@@ -13,10 +13,10 @@
 
 # Tree-based-model
   
-  * Decision Tree
-    * ID3
-    * C4.5
-    * CART
+  * Feature Selection Criteria
+    * ID3(Information Gain)
+    * C4.5(Information Gain Ratio)
+    * CART(Gini Ratio)
   * Ensemble
     * Bagging
       * Random forest
@@ -27,6 +27,7 @@
       * Extreme Gradient Boost Tree
       * LightGBM
       * CatBoost
+  * Pruning
 
 # Support_Vector_Machine
   * Classification
