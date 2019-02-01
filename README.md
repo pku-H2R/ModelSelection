@@ -20,11 +20,11 @@
   * Ensemble
     * Bagging
       * Random forest
-      * ExtremeTree
+      * Extremely randomized Tree
     * Boosting
       * Adaboost
-      * Gradient Boosting Decision Tree
-      * Extreme Gradient Boost Tree
+      * Gradient Boosting Decision Tree(GBDT)
+      * Extreme Gradient Boost Tree(XgBoost)
       * LightGBM
       * CatBoost
   * Pruning
