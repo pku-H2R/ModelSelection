@@ -44,8 +44,8 @@
  # Logistic_Regression 
  
  # Probabilistic_Graphic_Model
-      * Bayesian Network
-      * Markov Network
-      * Conditional Random Field
+   * Bayesian Network
+   * Markov Network
+   * Conditional Random Field
   
 
