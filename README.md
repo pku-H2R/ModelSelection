@@ -5,9 +5,9 @@
   
   
 # Model List
-* [Tree_based_model](#Tree-based-model)
-* [Support_Vector_Machine](Support_Vector_Machine)
-* [Logisitc_Regression](Logistic_Regression)
+* [Tree_based_model](#Tree_based_model)
+* [Support_Vector_Machine](#Support_Vector_Machine)
+* [Logisitc_Regression](#Logistic_Regression)
 
 
 
