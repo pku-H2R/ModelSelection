@@ -25,7 +25,7 @@
     * Boosting
       * Adaboost
       * Gradient Boosting Decision Tree(GBDT)
-      * Extreme Gradient Boost Tree(XgBoost)
+      * Extreme Gradient Boosting Tree(XgBoost)
       * LightGBM
       * CatBoost
   * Pruning
