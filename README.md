@@ -34,7 +34,7 @@
       * Binary
         * Hard Margine/Linearly separable SVM(Hard margin maximization)
         * Soft Margine/Linear SVM(Soft margin maximization)
-        * Non-linear Margine SVM = (kernel trick & Soft margin maximization)
+        * Non-linear SVM = (kernel trick & Soft margin maximization)
       * Multi-class
   * Regression
   * Speed up
