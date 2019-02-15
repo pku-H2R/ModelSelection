@@ -14,7 +14,7 @@
 
 
 # Tree_based_model
-  
+  * Pruning  
   * Feature Selection Criteria
     * ID3(Information Gain)
     * C4.5(Information Gain Ratio)
@@ -29,7 +29,6 @@
       * Extreme Gradient Boosting Tree(XgBoost)
       * LightGBM
       * CatBoost
-  * Pruning
 
 # Support_Vector_Machine
   * Classification
