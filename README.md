@@ -2,6 +2,7 @@
 # Getting Started 
 
 **Francois Chollet  :  The current landscape of machine learning algorithms: gradient boosting machines for shallow learning problems; and deep learning for perceptual problems.**
+**No Free Lunch: If you make absolutely no assumption about the data, then there is no reason to prefer one model over any other.**
   
   
 # Model List
