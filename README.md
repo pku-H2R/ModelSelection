@@ -1,7 +1,7 @@
 ![Picture](https://github.com/pku-H2R/Model-Selection/blob/master/Picture/machine_learning.png)
 # Getting Started 
 <p align="center">
- <i>The current landscape of machine learning algorithms: gradient boosting machines for shallow learning problems; and deep learning for perceptual problems.</i> —— Francois Chollet 
+ <i>The current landscape of machine learning algorithms: gradient boosting machines for shallow learning problems; and deep learning for perceptual problems.</i> —— Francois Chollet , 《D》
 </p>
 <p align="center">
 <i>If you make absolutely no assumption about the data, then there is no reason to prefer one model over any other.</i>
