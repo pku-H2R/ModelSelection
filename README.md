@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <i>If you make absolutely no assumption about the data, then there is no reason to prefer one model over any other.</i>
-   —— David Wolpert,  "No Free Lunch Theorem"
+<p align="right"> —— David Wolpert,  "No Free Lunch Theorem"</p>
 </p>
   
 # Model List
