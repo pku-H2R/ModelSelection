@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <i>If you make absolutely no assumption about the data, then there is no reason to prefer one model over any other.</i>
-    —— No Free Lunch
+ <i> —— No Free Lunch </i>
 </p>
   
 # Model List
