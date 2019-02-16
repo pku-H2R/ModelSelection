@@ -1,11 +1,11 @@
 ![Picture](https://github.com/pku-H2R/Model-Selection/blob/master/Picture/machine_learning.png)
 # Getting Started 
 <p align="center">
- <i>The current landscape of machine learning algorithms: gradient boosting machines for shallow learning problems; and deep learning for perceptual problems.</i>       —— Francois Chollet ,《Deep Learning with Python》
+ <i>The current landscape of machine learning algorithms: gradient boosting machines for shallow learning problems; and deep learning for perceptual problems.</i>     —— Francois Chollet ,《Deep Learning with Python》
 </p>
 <p align="center">
 <i>If you make absolutely no assumption about the data, then there is no reason to prefer one model over any other.</i>
- <i> —— No Free Lunch </i>
+   —— David Wolpert,  "No Free Lunch Theorem"
 </p>
   
 # Model List
