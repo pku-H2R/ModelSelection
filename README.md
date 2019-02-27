@@ -29,6 +29,8 @@
   * Robustness
   * Fairness
   * Scalability
+  * Safety
+  * Distributed Parallel
 
 # Tree_based_model
   * Pruning  
