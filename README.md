@@ -15,12 +15,20 @@
 </p>
   
 # Model List
-* [Tree_based_model](#Tree_based_model)
-* [Support_Vector_Machine](#Support_Vector_Machine)
-* [Logisitc_Regression](#Logistic_Regression)
-* [Probabilistic_Graphic_Model](#Probabilistic_Graphic_Model)
+* [Selection Factor](#Selection_Factor)
+* [Tree based model](#Tree_based_model)
+* [Support Vector Machine](#Support_Vector_Machine)
+* [Logisitc Regression](#Logistic_Regression)
+* [Probabilistic Graphic Model](#Probabilistic_Graphic_Model)
 
 
+# Selection_Factor
+  * Interpretability/Explaination
+  * Efficiency
+  * Simplicity 
+  * Robustness
+  * Fairness
+  * Scalability
 
 # Tree_based_model
   * Pruning  
